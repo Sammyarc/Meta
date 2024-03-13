@@ -1,0 +1,112 @@
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,700;1,800&amp;family=Staatliches&amp;display=swap
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,latin-ext
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc9.ttf
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxP.ttf
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\s\roboto\v30\KFOmCnqEu92Fr1Mu7GxP.ttf
+Content Type: font/ttf
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/1.png
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\1.png
+Content Type: image/png
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/2.png
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\2.png
+Content Type: image/png
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/3.png
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\3.png
+Content Type: image/png
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/4.png
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\4.png
+Content Type: image/png
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/5.png
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\5.png
+Content Type: image/png
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/6.png
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\6.png
+Content Type: image/png
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/7.png
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\7.png
+Content Type: image/png
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/8.png
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\8.png
+Content Type: image/png
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/bootstrap.css
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\bootstrap.css
+Content Type: text/css
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/bootstrap.js
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/girl.svg
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\girl.svg
+Content Type: image/svg+xml
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/head.png
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\head.png
+Content Type: image/png
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/header.html
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\header.html
+Content Type: text/html
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/hero.jpg
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\hero.jpg
+Content Type: image/jpeg
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/laptop.svg
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\laptop.svg
+Content Type: image/svg+xml
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/logo.svg
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/script.js
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\script.js
+Content Type: application/javascript
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/style.css
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\style.css
+Content Type: text/css
+
+Uri: https://meta-reverse-balance-team-nft.netlify.app/support.html
+File Name: C:\Downloaded Web Sites\meta-reverse-balance-team-nft.netlify.app\support.html
+Content Type: text/html
+
